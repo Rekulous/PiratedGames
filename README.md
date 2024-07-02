@@ -196,7 +196,8 @@ These tools are helpful with cracking your own games.
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - Faster than QuickSFV.
 - [DashHash](https://codeberg.org/CerdaCodes/DashHash) - Alternative to QuickSFV
 - [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
-- [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
+- [Vapor Store](https://github.com/CrypticShy/vapor-store) - **[deprecated]** A store (similar to Steam!) where you can download cracked games!
+- [Hydra](https://github.com/hydralauncher/hydra) - A store like Vapor Store
 - [CompactGUI](https://github.com/ImminentFate/CompactGUI) 
 - [Radmin VPN](https://www.radmin-vpn.com/) - Usefull if you want to play LAN games with your friends. **Not a subsitute for a normal VPN**
 - [Cyberduck](https://cyberduck.io) - Manage your Cloud Services and copy files to other places. Free and open-source, alternative to AirExplorer.
