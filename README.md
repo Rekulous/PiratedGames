@@ -66,7 +66,6 @@ These games normally have community remakes, source ports, alternative versions,
 
 **Other noteworthy mentions:**
 
-- [CrackHub](https://crackhub.site/) - DDL for scene games and FitGirl repacks.
 - [GLOAD](https://gload.cc/) - German DDL site.
 - [Gamesdrive.net](https://gamesdrive.net/) - Repacks and Scene game downloads. No Signup is required for downloads.
 - [GOG-Games](https://gog-games.com/) - GOG Games.
